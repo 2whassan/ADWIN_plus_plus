@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.adaptiveWindowDrop
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.benchmarkAdwin
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.setupIteration
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.setupTrial
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.teardownIteration
+inline,de/tub/bdapro/adwin/benchmark/Microbenchmark.teardownTrial
